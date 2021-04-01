@@ -1,0 +1,8 @@
+#+TITLE: Genesis: Welcome to my Blog!
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+ROAM_ALIAS:
+#+ROAM_TAGS: BLOGPOST
+#+CREATED: [2021-03-31 Wed 19:07]
+#+LAST_MODIFIED: [2021-03-31 Wed 19:09:32]
+
+Alright so this is just a first post testing the features of this system. My old blog had nothing on it and this one probably has nothing on it either. If I can figure out how to publish *Org-mode* files properly, I'll actually trying writing stuff again. I do have a bunch of drafts. Just nothing /concrete/...
