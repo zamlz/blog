@@ -1,9 +1,11 @@
+:PROPERTIES:
+:ID:       96a73ea5-ee5a-4214-9e39-31e77e4053af
+:END:
 #+TITLE: The Great Editor Wars: Vi vs Emacs
 #+AUTHOR: Amlesh Sivanantham (zamlz)
-#+ROAM_ALIAS:
-#+ROAM_TAGS: BLOGPOST
 #+CREATED: [2021-04-03 Sat 12:39]
-#+LAST_MODIFIED: [2021-04-03 Sat 14:06:53]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:16]
+#+filetags: BLOGPOST
 
 For many, many years there has been much debate about the which editor is the best and which editor to rule them all. The two editors and their respective user-base, *Vi* and *Emacs*, have been at each other's throats for so long. There are debates from Usenet groups all the way back to 1985. But by the turn of the century /(or maybe a few years into the 2000s)/, it was pretty clear that there was a clear winner. The one to take home all the glory was *Vi*.
 
