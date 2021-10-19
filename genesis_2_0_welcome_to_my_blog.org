@@ -4,7 +4,7 @@
 #+TITLE: Genesis 2.0: Welcome to my Blog!
 #+AUTHOR: Amlesh Sivanantham (zamlz)
 #+CREATED: [2021-03-31 Wed 19:07]
-#+LAST_MODIFIED: [2021-07-19 Mon 09:43:16]
+#+LAST_MODIFIED: [2021-10-19 Tue 08:23:05]
 #+filetags: BLOGPOST
 
-Alright so this is just a first post testing the features of this system. My old blog had nothing on it and this one probably has nothing on it either. If I can figure out how to publish *Org-mode* files properly, I'll actually trying writing stuff again. I do have a bunch of drafts. Just nothing /concrete/...
+Alright so this is just a first post testing the features of this system. My old blog had nothing on it and this one probably has nothing on it either. If I can figure out how to publish [[id:ef93dff4-b19f-4835-9002-9d4215f8a6fe][Org-mode]] files properly, I'll actually trying writing stuff again. I do have a bunch of drafts. Just nothing /concrete/...
