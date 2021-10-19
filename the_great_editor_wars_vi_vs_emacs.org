@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       96a73ea5-ee5a-4214-9e39-31e77e4053af
+:END:
+#+TITLE: The Great Editor Wars: Vi vs Emacs
+#+AUTHOR: Amlesh Sivanantham (zamlz)
+#+CREATED: [2021-04-03 Sat 12:39]
+#+LAST_MODIFIED: [2021-07-19 Mon 09:43:16]
+#+filetags: BLOGPOST
+
+For many, many years there has been much debate about the which editor is the best and which editor to rule them all. The two editors and their respective user-base, *Vi* and *Emacs*, have been at each other's throats for so long. There are debates from Usenet groups all the way back to 1985. But by the turn of the century /(or maybe a few years into the 2000s)/, it was pretty clear that there was a clear winner. The one to take home all the glory was *Vi*.
+
+* The Ubiquitous Winner: Vi
+
+Now in the modern era, we have powerhouse IDEs like *Visual Studio Code* which boast a multitude of features for making the lives of developers easier. There is no doubt in my mind that anyone that learns how to program which find *VS Code* an absolutely brilliant piece of software. I've used it for work from time to time and its really good at what it does.
+
+So what makes *Vi* and its derivatives special /(Vim, Neovim)/? The answer comes down to /ubiquity/. *Vi*'s initial release was in 1976. Its a very ancient piece of software but because of this, you can almost always guarantee that any linux system you use comes prepackaged with *vim* /(or *vi* at the very least)/. And most developers will find themselves using it at some point, especially if they are deploying code onto remote machines. Sometimes the code needs to be quickly patched. Other times, it might be that some local configuration file on a remote machine needs to be changed. It can be a little time consuming copying the file from the remote machine to your local via =scp= and back again. And so, many many developers, regardless of their primary IDE choice, will find themselves learning the basics of *Vi*.
+
+The basics of the editor can be taught in a matter of minutes. All you really need to learn is how the modal system works, basic movement in NORMAL mode and of course, saving and quiting from the editor. While this is enough to /survive/, it is not enough to be effecient with the editor. *Vi* doesn't let you use the mouse out of the box and so there are plenty more keybindings for quickly moving your cursor to the place you want. With modern verions of the editor however, it is possible to enable mouse support, however, many powerusers of *Vi* will still not use the mouse. The need to move your hand from the keyboard to the mouse is not ergonomic and can be slow, when you can type a few keys to achieve the same thing. This makes the learning curve for the editor pretty high, but very rewarding once these keybindings become second nature.
+
+*Vim* is a modern version of *Vi* that is probably the most commonly used derivative as of writing this.
